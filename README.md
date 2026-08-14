@@ -6,4 +6,6 @@ This project would first replicate the J-lens in K3 (likely, as written in https
 
 ## Status
 
-This project is currently unfunded, but is a problem which can be solved easily with compute. 
+This project is currently unfunded, but is a problem which can be solved easily with compute. I also think that training this checkpoint should be done *eventually*, even if there comes other models of a similar weight-class to K3, considering it is ~unlikely that the compute resources required to train a J-lens for a K3 class model will drop. 
+
+Notably, I also intend on training an R-Lens instead of a J-lens on K3, for greater accuracy. See https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers for more details. 
