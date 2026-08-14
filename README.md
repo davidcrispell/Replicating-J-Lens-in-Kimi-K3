@@ -4,6 +4,6 @@ There is no publicly available J-Lens for Kimi K3. Kimi K3 is a very large (2.8T
 
 This project would first replicate the J-lens in K3 (likely, as written in https://fireworks.ai/blog/J-Lens-Kimi-K3-Qwen, who replicate but do not expose the checkpoint), then release the code and trained J-lens. 
 
-# Status
+## Status
 
 This project is currently unfunded, but is a problem which can be solved easily with compute. 
